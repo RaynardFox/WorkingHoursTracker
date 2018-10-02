@@ -34,20 +34,29 @@
 		<Metadata name="Catalog.ТипЗадачи" id="e0cbd9e4-5e73-434d-b86b-6eb55fcc0c81" configVersion="34a5ae776738e141a9a665d99980397d00000000"/>
 		<Metadata name="CommandGroup.Документы" id="9e8b0683-eb63-425f-b7b9-2cf1a7d8edf4" configVersion="0fe401d198d259419a50c5d27c3c80d600000000"/>
 		<Metadata name="CommandGroup.Отчеты" id="721ad6a3-3aa7-4d83-9084-6012208b7709" configVersion="cffa3b66e2210846990570124998e77c00000000"/>
+		<Metadata name="CommandGroup.СинхронизацияДанных" id="c4c7eb41-2edf-48b9-a77e-ce3eed9e4b24" configVersion="e22e66d181a6c84eb8403a7167a089de00000000"/>
 		<Metadata name="CommandGroup.Справочники" id="dc4edc4f-eedb-431a-8b4b-6135e69d4c11" configVersion="0bc88085a4576b45a7042c1140a95f8f00000000"/>
+		<Metadata name="CommonCommand.НастройкаСинхронизации" id="7d191e65-18e1-430c-8d4c-1bb660f36c2e" configVersion="5ce166a6ce0e134682743e54abada02400000000"/>
+		<Metadata name="CommonCommand.НастройкаСинхронизации.CommandModule" id="7d191e65-18e1-430c-8d4c-1bb660f36c2e.2" configVersion="7e4d7206717d5343b2ca56a2f3df254100000000"/>
 		<Metadata name="CommonCommand.ОтчетПоОтработанномуВремени" id="66d1392e-680a-43fe-9abf-046eba8929fb" configVersion="1ed294642a0a7d46aaac2d868c0de40e00000000"/>
 		<Metadata name="CommonCommand.ОтчетПоОтработанномуВремени.CommandModule" id="66d1392e-680a-43fe-9abf-046eba8929fb.2" configVersion="d99272f8db38384ca682f8288c04101500000000"/>
+		<Metadata name="CommonCommand.СинхронизацияСЦентральнойБазой" id="6ecc5577-4609-4fbb-b056-57e04fcffea3" configVersion="24d6281c0c0f604083f5de616a79719e00000000"/>
+		<Metadata name="CommonCommand.СинхронизацияСЦентральнойБазой.CommandModule" id="6ecc5577-4609-4fbb-b056-57e04fcffea3.2" configVersion="a319884df386b247ab106089653cb7ca00000000"/>
 		<Metadata name="CommonCommand.СоздатьОтчетЗаДень" id="daa6f5a7-dd91-44ec-8902-6bf55f729d44" configVersion="3227d97cd03521408cdf91b22b35141400000000"/>
 		<Metadata name="CommonCommand.СоздатьОтчетЗаДень.CommandModule" id="daa6f5a7-dd91-44ec-8902-6bf55f729d44.2" configVersion="200fb22b34d5c54c8037afc272956bc200000000"/>
+		<Metadata name="CommonCommand.СохранитьНаЯндексДиск" id="eb8283c9-9a12-4d66-a9ad-843a94b06e6a" configVersion="3b7d326f8ccf4e4b91e21111e8e100ca00000000"/>
+		<Metadata name="CommonCommand.СохранитьНаЯндексДиск.CommandModule" id="eb8283c9-9a12-4d66-a9ad-843a94b06e6a.2" configVersion="cc7e2f68ef9c3149b549af9a7ddd37dc00000000"/>
 		<Metadata name="CommonCommand.СписокОтчетовЗаДень" id="01914165-b4d3-443e-9955-49ab2222f633" configVersion="e85ca4e66f231a47a7bfecfb8972046e00000000"/>
 		<Metadata name="CommonCommand.СписокОтчетовЗаДень.CommandModule" id="01914165-b4d3-443e-9955-49ab2222f633.2" configVersion="e7e63b18d6c1194ba0a162ead2eb8a5800000000"/>
+		<Metadata name="CommonForm.НастройкаСинхронизации" id="754b406f-a4ad-4278-889b-cd427fcbc73d" configVersion="77abb7bdf8c02640aafca686e4a6078d00000000"/>
+		<Metadata name="CommonForm.НастройкаСинхронизации.Form" id="754b406f-a4ad-4278-889b-cd427fcbc73d.0" configVersion="d4df44005e54f04684a3ad3aa575c31200000000"/>
 		<Metadata name="CommonForm.НачальнаяСтраница" id="a79e391b-e1e7-458a-8e3b-04faf9556cc8" configVersion="ba89b33c4a4aa240a22d8909716a884c00000000"/>
 		<Metadata name="CommonForm.НачальнаяСтраница.Form" id="a79e391b-e1e7-458a-8e3b-04faf9556cc8.0" configVersion="d14ded448d2cd744b3ad6fa5ed2d620500000000"/>
 		<Metadata name="CommonForm.ФормаОтчета" id="7578c18b-206d-4414-a4c7-24e5b29c859b" configVersion="93c5f3735f47cf45904de16a2a70539100000000"/>
 		<Metadata name="CommonForm.ФормаОтчета.Form" id="7578c18b-206d-4414-a4c7-24e5b29c859b.0" configVersion="9ac57935a12e8143bc137b76d48b531f00000000"/>
 		<Metadata name="CommonTemplate.ОтчетПоОтработанномуВремени" id="5eb75806-05fb-43b7-900a-38f413b4c3ca" configVersion="2956a5841e52bd4983f3f11317e1365e00000000"/>
 		<Metadata name="CommonTemplate.ОтчетПоОтработанномуВремени.Template" id="5eb75806-05fb-43b7-900a-38f413b4c3ca.0" configVersion="dcfea10577269346bdf06f77e68ce4ef00000000"/>
-		<Metadata name="Configuration.МобильныйУчетРабочегоВремени" id="5965d888-c94a-4a64-8e8f-f7b2d417f5e5" configVersion="536ebba6933e4f49b7f284fd609043c400000000"/>
+		<Metadata name="Configuration.МобильныйУчетРабочегоВремени" id="5965d888-c94a-4a64-8e8f-f7b2d417f5e5" configVersion="bfe7f9153399ad45b024f415dea9fe2700000000"/>
 		<Metadata name="Configuration.МобильныйУчетРабочегоВремени.HomePageWorkArea" id="a23a0b18-8866-4a60-a594-dfbc032e2d7e.8" configVersion="4dfa0ee13f61ea42b3f227219f538a3400000000"/>
 		<Metadata name="Configuration.МобильныйУчетРабочегоВремени.MainSectionCommandInterface" id="a23a0b18-8866-4a60-a594-dfbc032e2d7e.9" configVersion="19a90d563280d04a8f482f62ca46072400000000"/>
 		<Metadata name="Configuration.МобильныйУчетРабочегоВремени.SessionModule" id="a23a0b18-8866-4a60-a594-dfbc032e2d7e.7" configVersion="4375d8d125b8be4292a6b2fa7b6c5e2500000000"/>
@@ -95,6 +104,7 @@
 		<Metadata name="Role.Админ.Rights" id="d40c5c89-7909-400c-b6cb-217bbf1a0da0.0" configVersion="86f6d877af4ec048a48d6df2c546b62900000000"/>
 		<Metadata name="SessionParameter.ТекущийПользователь" id="99aee61b-1d8a-47b1-9caa-f07ae3393e28" configVersion="b48d3490fb54104db3961402aa1bd01100000000"/>
 		<Metadata name="Subsystem.Документы" id="84782273-7613-4f79-8d56-29786310169a" configVersion="21f2d58d597a094bb15cd967ce6cb9e700000000"/>
+		<Metadata name="Subsystem.ОбменДанными" id="b1932864-a0a4-4baf-abf3-c73e481aefd3" configVersion="f4b9cda6242aba49ab6b03bc72562a8300000000"/>
 		<Metadata name="Subsystem.Отчеты" id="0a6b971a-4fd5-4de0-a947-f7e9f3076fde" configVersion="2beb1298c7ed814789cd4d8c5a6118fe00000000"/>
 		<Metadata name="Subsystem.Служебная" id="4917dfff-f5f9-425c-bf2c-1fae6a9c8f31" configVersion="525ec50c0365c846ade8efd1413f7ac400000000"/>
 		<Metadata name="Subsystem.Справочники" id="c77a5038-44d4-46e4-9b16-78ae74d28348" configVersion="1794f02fb84df24ea11bfb37dc44c36c00000000"/>

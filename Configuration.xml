@@ -139,6 +139,7 @@
 			<Subsystem>Документы</Subsystem>
 			<Subsystem>Служебная</Subsystem>
 			<Subsystem>Отчеты</Subsystem>
+			<Subsystem>ОбменДанными</Subsystem>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<Role>Админ</Role>
 			<CommonTemplate>ОтчетПоОтработанномуВремени</CommonTemplate>
@@ -146,11 +147,16 @@
 			<CommonCommand>ОтчетПоОтработанномуВремени</CommonCommand>
 			<CommonCommand>СписокОтчетовЗаДень</CommonCommand>
 			<CommonCommand>СоздатьОтчетЗаДень</CommonCommand>
+			<CommonCommand>НастройкаСинхронизации</CommonCommand>
+			<CommonCommand>СинхронизацияСЦентральнойБазой</CommonCommand>
+			<CommonCommand>СохранитьНаЯндексДиск</CommonCommand>
 			<CommandGroup>Справочники</CommandGroup>
 			<CommandGroup>Отчеты</CommandGroup>
 			<CommandGroup>Документы</CommandGroup>
+			<CommandGroup>СинхронизацияДанных</CommandGroup>
 			<CommonForm>ФормаОтчета</CommonForm>
 			<CommonForm>НачальнаяСтраница</CommonForm>
+			<CommonForm>НастройкаСинхронизации</CommonForm>
 			<Catalog>Контрагент</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>ТипЗадачи</Catalog>
